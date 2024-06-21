@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🧜‍♀️ Hello, I'm Citra! 🌊
 
-<!--
-**citrafriska/citrafriska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🐚 I'm a full-stack developer sailing through the digital seas, bringing my technological prowess to empower various projects 🐚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise encompasses:
+
+- 🌊 Application and mobile development, creating digital waves.
+- 🐠 Crafting user interfaces that flow with seamless beauty.
+- 🌐 Optimizing applications for various devices and browsers, ensuring a smooth sail for all users.
+- 📡 Integrating APIs and managing databases like treasures hidden in underwater caves.
+
+
+## Tech Treasures 🌟
+
+- **Languages:** JavaScript, Python
+- **Frontend Gems:** React, Vue.js, Next.js
+- **Backend Pearls:** Node.js, Express
+- **Mobile Shells:** React Native
+- **Database Shores:** MySQL, MongoDB, PostgreSQL
+- **Other Tools:** Git for version control, Docker for containerized voyages, AWS for cloud serenades
+
