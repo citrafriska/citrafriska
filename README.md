@@ -12,7 +12,7 @@ My expertise encompasses:
 - 📡 Integrating APIs and managing databases like treasures hidden in underwater caves.
 
 
-## Tech Treasures 🌟
+## Tech Treasures :sunny:
 
 - **Languages:** JavaScript, Python
 - **Frontend Gems:** React, Vue.js, Next.js
