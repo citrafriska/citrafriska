@@ -2,7 +2,7 @@
 
 ## About Me
 
-🐚 I'm a full-stack developer sailing through the digital seas, bringing my technological prowess to empower various projects 🐚
+🐚 I'm a software engineer sailing through the digital seas, bringing my technological prowess to empower various projects 🐚
 
 My expertise encompasses:
 
